@@ -7,7 +7,7 @@ Version:	0.0.11
 Release:	1
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://www.taskjuggler.org
+URL:		https://www.taskjuggler.org
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
